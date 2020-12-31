@@ -3,7 +3,9 @@
 
 ### I Like: 
 
+#### Coding (Vue/Java/React/C++/mxGraph/Python...)
 #### Design (Web/App/Clothes/...)
-
-<img src="https://ea-general-pics.oss-cn-beijing.aliyuncs.com/design_flower.png"
-     alt=“github icon”/>
+#### Game: Overwatch!
+#### Sport (Badminton/Ping Pong...)
+#### Movies (various types!)
+#### Music (various types!)
