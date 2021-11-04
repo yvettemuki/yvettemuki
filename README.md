@@ -2,7 +2,7 @@
 
 ### 😜 I Like:
 
-+ 💻 Coding (Vue/Java/React/C++/mxGraph/Python...)
++ 💻 Coding (C++/JS/Java/mxGraph/Python...)
 + 🎀 Design (Web/App/Clothes/...) 
 + 🎮 Game: Overwatch! Or any others FPS games!
 + 🏸 Sport: (Badminton/Ping Pong...)
