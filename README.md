@@ -2,8 +2,8 @@
 
 ### 😜 I Like:
 
-- 💻 Coding (C++/JS/Java/mxGraph/Python...)
-- 🎀 Design (Web/App/Clothes/...) 
+- 💻 Coding (C++/C#/JS/Java/Python...)
+- 🎀 Design (Web/App/Logo/...) 
 - 🎮 Game: Overwatch! Or any others FPS games!
 - 🏸 Sport: (Badminton/Ping Pong...)
 - 👀 Movies: Mystery>Reference>Science Fiction>Art>Thriller
